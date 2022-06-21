@@ -32,6 +32,7 @@
 
 ## 部署实战
 [嵌入式深度学习之神经网络二值化（3）-FPGA实现](https://mp.weixin.qq.com/s/RsZCTqCKwpnjATUFC8da7g)
+
 [An Open Source FPGA CNN Library](https://support.alpha-data.com/pub/appnotes/cnn/ad-an-0055_v1_0.pdf)
 
 
