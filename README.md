@@ -35,7 +35,7 @@
 
 [An Open Source FPGA CNN Library](https://support.alpha-data.com/pub/appnotes/cnn/ad-an-0055_v1_0.pdf)
 
-
+[TensorRT INT8量化原理与实现（非常详细）](https://blog.csdn.net/Nichlson/article/details/121085747)
 
 ## 闲谈
 
